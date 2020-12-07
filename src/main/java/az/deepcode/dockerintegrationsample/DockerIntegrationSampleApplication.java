@@ -8,7 +8,7 @@ public class DockerIntegrationSampleApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DockerIntegrationSampleApplication.class, args);
-        System.out.println("Hello jeyhun !!!");
+        System.out.println("Hello jeyhun !");
     }
 
 }
